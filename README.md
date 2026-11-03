@@ -54,6 +54,7 @@ Tools to inspect live search results, identify high-potential search queries, un
 - [Keyword Tool](https://keywordtool.io/) - Generates thousands of long-tail keywords using autocomplete across Google, YouTube, Bing, Amazon, and more.
 - [LowFruits](https://lowfruits.io/) - Specialized keyword finder for uncovering uncompetitive low-hanging fruit keywords and forum-dominated SERPs.
 - [SERPScoreLite](https://serpscorelite.com/) - Lightweight SEO toolkit featuring a free live Google SERP checker, keyword difficulty scoring backed by authority signals, URL traffic estimation, and domain comparisons.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker for any domain — estimated monthly visits, trends, and traffic-source mix, with growth leaderboards (English & Chinese).
 - [KeySearch](https://www.keysearch.co/) - Affordable keyword difficulty checker, LSI keyword finder, and competitor keyword gap tool.
 - [WordStream Free Keyword Tool](https://www.wordstream.com/keywords) - Fast keyword discovery tool with industry-based filtering and competitive search volume metrics.
 - [kwrds.ai](https://www.kwrds.ai/) - Keyword idea and search question generator tailored for content ideation.
