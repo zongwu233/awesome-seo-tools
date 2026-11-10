@@ -101,6 +101,7 @@ Discover backlink profiles, evaluate domain trust, uncover link opportunities, a
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Automated backlink monitoring that alerts you to lost links, competitor backlinks, and negative SEO patterns.
 - [Respona](https://respona.com/) - Outreach platform tailored for link builders, digital PR, and relationship-driven guest post pitches.
 - [BacklinkScan](https://backlinkscan.com/) - Clean, straightforward backlink analysis tool for link verification and anchor text review.
+- [Datacircle](https://datacircle.dev) - Benchmarks of backlink, keyword and SERP APIs, ranked by accuracy and what 1,000 calls cost.
 
 ---
 
